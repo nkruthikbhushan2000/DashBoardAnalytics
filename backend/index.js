@@ -21,6 +21,8 @@ app.use((_, res) => {
   });
 });
 
+//Test push request
+
 //Connect to DB
 dbConnection();
 
